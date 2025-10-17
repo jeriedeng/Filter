@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,anthropic.com,ChatGPT
 **- DOMAIN-SUFFIX,mask-api.icloud.com,ChatGPT
 DOMAIN-SUFFIX,api.apple-cloudkit.com,ChatGPT
 DOMAIN-SUFFIX,apple-relay.apple.com,ChatGPT**
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,ChatGPT
 DOMAIN-SUFFIX,apple.com,ChatGPT
 DOMAIN-SUFFIX,appleid.apple.com,ChatGPT
 DOMAIN-SUFFIX,auth0.com,ChatGPT
@@ -36,4 +37,5 @@ DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net,ChatGPT
 DOMAIN-SUFFIX,perplexity.ai,ChatGPT
 DOMAIN-SUFFIX,poe.com,ChatGPT
 DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net,ChatGPT
+
 DOMAIN-SUFFIX,sentry.io,ChatGPT
